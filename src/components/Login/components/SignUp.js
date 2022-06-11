@@ -95,6 +95,7 @@ function SignUp() {
           placeholder="邮箱"
           borderRadius="0"
           icon="AiFillMail"
+          borderTop="0"
           name="email"
           type="email"
           required
